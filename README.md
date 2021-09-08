@@ -10,7 +10,8 @@ Its a lucky birthday web app which tells whether your birthday is lucky or not o
   
 ## Deployment
 
-Deployed over netlify
+Deployed over netlify and can be accessed here
+https://birthdayluckydate.netlify.app/
 
 
 
