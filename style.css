@@ -59,3 +59,12 @@ label{
 #check-number{
     margin-bottom:1rem;
 }
+.privacy{
+    width:98%;
+    /* margin:auto; */
+    position:absolute;
+    bottom:1px;
+    color:rgb(170, 111, 230);
+    text-align: center;
+    font-style:italic;
+}
